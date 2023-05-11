@@ -669,6 +669,7 @@ a {
 .footer .row {
     display: flex;
     padding-bottom: 38px;
+    border-bottom: 1px solid #59554b;
 }
 
 .footer .row .column {
